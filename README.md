@@ -1,1 +1,1 @@
-# ericnguyen-interactive-resume
+# interactive-resume
